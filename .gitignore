@@ -1,3 +1,4 @@
 .secret
 /build
 *.log
+/node_modules
